@@ -1,0 +1,12 @@
+{
+  "name": "bolt-outside-15",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "A tiny offline outdoor micro-break planner powered by open-weight local AI",
+  "scripts": {
+    "start": "node src.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "license": "MIT"
+}
